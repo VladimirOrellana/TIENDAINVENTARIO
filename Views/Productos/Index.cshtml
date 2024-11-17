@@ -1,0 +1,69 @@
+﻿@model IEnumerable<TiendaInventario.Models.Producto>
+
+@{
+    ViewData["Title"] = "Lista de Productos";
+}
+
+<h2>Lista de Productos</h2>
+
+<form method="get">
+    <p>
+        Buscar por nombre o descripción:
+        <input type="text" name="searchString" value="@Context.Request.Query["searchString"]" />
+        <input type="submit" value="Buscar" class="btn btn-secondary" />
+    </p>
+
+    <p>
+        Filtrar por precio:
+        <input type="number" name="minPrice" value="@Context.Request.Query["minPrice"]" placeholder="Mínimo" />
+        -
+        <input type="number" name="maxPrice" value="@Context.Request.Query["maxPrice"]" placeholder="Máximo" />
+    </p>
+
+    <p>
+        Filtrar por cantidad:
+        <input type="number" name="minQuantity" value="@Context.Request.Query["minQuantity"]" placeholder="Mínimo" />
+        -
+        <input type="number" name="maxQuantity" value="@Context.Request.Query["maxQuantity"]" placeholder="Máximo" />
+    </p>
+
+    <input type="submit" value="Filtrar" class="btn btn-secondary" />
+</form>
+
+@if (User.IsInRole("Admin")) // Solo los administradores pueden ver este botón
+{
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Agregar Producto</a>
+    </p>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Precio.ToString("C")</td>
+                <td>@item.Cantidad</td>
+                <td>
+                    @if (User.IsInRole("Admin")) // Solo los administradores pueden ver estas opciones
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Eliminar</a>
+                    }
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Ver</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

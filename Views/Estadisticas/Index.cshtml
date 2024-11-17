@@ -1,0 +1,52 @@
+﻿@model TiendaInventario.ViewModels.EstadisticasViewModel
+@using Newtonsoft.Json
+
+@{
+    ViewData["Title"] = "Estadísticas del Inventario";
+}
+
+<h2>Estadísticas del Inventario</h2>
+
+<h3>Gráfico de productos con menor stock</h3>
+@if (Model.ProductosConMenorStock != null && Model.ProductosConMenorStock.Any())
+{
+    <canvas id="productosChart" width="400" height="200"></canvas>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var labels = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.ProductosConMenorStock.Select(p => p.Nombre).ToList()));
+            var data = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.ProductosConMenorStock.Select(p => p.Cantidad).ToList()));
+
+            console.log("Labels:", labels); // Verifica los datos
+            console.log("Data:", data);
+
+            var ctx = document.getElementById('productosChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Cantidad en Stock',
+                        data: data,
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}
+else
+{
+    <p>No hay datos suficientes para generar el gráfico.</p>
+}
+

@@ -1,0 +1,25 @@
+﻿@model TiendaInventario.Models.Producto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Detalles del prodcuto</h2>
+
+<div>
+    <h4>@Model.Nombre</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Descripción</dt>
+        <dd class="col-sm-10">@Model.Descripcion</dd>
+
+        <dt class="col-sm-2">Precio</dt>
+        <dd class="col-sm-10">@Model.Precio.ToString("C")</dd>
+
+        <dt class="col-sm-2">Cantidad</dt>
+        <dd class="col-sm-10">@Model.Cantidad</dd>
+    </dl>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> |
+<a asp-action="Index">Regresar</a>

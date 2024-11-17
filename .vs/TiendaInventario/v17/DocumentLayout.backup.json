@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\viewmodels\\estadisticasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:viewmodels\\estadisticasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\estadisticas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\estadisticas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\controllers\\estadisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:controllers\\estadisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\data\\tiendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:data\\tiendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\iniciar sesi\u00F3n.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\iniciar sesi\u00F3n.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\views\\productos\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:views\\productos\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|c:\\users\\ronal\\source\\repos\\tiendainventario\\data\\migrations\\20241103045903_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E97C5CD-D058-4894-9381-EF333F27A98C}|TiendaInventario.csproj|solutionrelative:data\\migrations\\20241103045903_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadisticasViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\ViewModels\\EstadisticasViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EstadisticasViewModel.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\ViewModels\\EstadisticasViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EstadisticasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:38:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Estadisticas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estadisticas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Estadisticas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estadisticas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:24:50.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadisticasController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Controllers\\EstadisticasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadisticasController.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Controllers\\EstadisticasController.cs",
+              "RelativeToolTip": "Controllers\\EstadisticasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:16:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:56:04.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:48:18.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwDMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T13:58:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:23:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:23:56.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:47:13.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:04:12.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:52:54.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TiendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Data\\TiendaContext.cs",
+              "RelativeDocumentMoniker": "Data\\TiendaContext.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Data\\TiendaContext.cs",
+              "RelativeToolTip": "Data\\TiendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:48:35.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:40:16.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Iniciar sesi\u00F3n.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Iniciar sesi\u00F3n.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Iniciar sesi\u00F3n.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Iniciar sesi\u00F3n.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Iniciar sesi\u00F3n.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T11:25:31.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:39:28.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T14:08:11.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:07:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:53:48.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:08:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Views\\Productos\\Registrarse.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Registrarse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T11:26:02.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T04:49:19.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T09:46:20.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241103045903_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Data\\Migrations\\20241103045903_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241103045903_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ronal\\source\\repos\\TiendaInventario\\Data\\Migrations\\20241103045903_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241103045903_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:59:03.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

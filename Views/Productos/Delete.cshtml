@@ -1,0 +1,22 @@
+﻿@model TiendaInventario.Models.Producto
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Eliminar Producto</h2>
+
+<h3>¿Estás seguro de que deseas eliminar este producto?</h3>
+
+<div>
+    <h4>¿Está seguro de que desea eliminar este producto?</h4>
+    <h5>@Model.Nombre</h5>
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index">Cancelar</a>
+    </div>
+</form>
